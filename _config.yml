@@ -4,6 +4,9 @@ tagline: ''
 description: ''
 url: "https://class66-project.github.io"
 github_username:  class66-project
+paginate: 5
+permalink: pretty
+
 
 plugins:
   - jekyll-paginate
