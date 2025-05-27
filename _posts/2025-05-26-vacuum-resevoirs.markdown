@@ -26,10 +26,10 @@ they're pretty much ready. An initial vacuum test (without the tee piece)
 showed them holding a vacuum very well, holding at 15 inHg for more than 10
 minutes before I got bored and emptied (or should that be filled?) them.
 
-![Great Whip Canister in purple](/public/img/2025-05-27/greatwhip.jpg)
+![Great Whip Canister in purple](/public/img/2025-05-26/greatwhip.jpg)
 
 Canister in purple
 
-![Finished black canister](/public/img/2025-05-27/painted.jpg)
+![Finished black canister](/public/img/2025-05-26/painted.jpg)
 
 And in black, looking very sleek.
